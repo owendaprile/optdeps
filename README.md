@@ -1,5 +1,5 @@
 # optdeps - Arch Linux/pacman
-List optional dependencies on an Arch Linux system. Useful for finding optional dependencies after initial installation, or after a new package in installed.
+List optional dependencies on an Arch Linux system. Useful for finding optional dependencies after initial installation, or after a new package is installed.
 ## Usage
 ```
 USAGE:
